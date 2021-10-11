@@ -1,4 +1,4 @@
-# nibl
+# nibl-search-script
 A really simple nibl search script for nibl which utilises the surf web browser to display the nibl search website.
 
 P.S. I know this is a really lazy script, but it may be useful for some people, so I just developed this so you don't have to!
