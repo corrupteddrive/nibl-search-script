@@ -4,3 +4,6 @@ Type = Application
 Terminal = false
 Name = NIBL
 Exec = /usr/bin/nibl
+
+#Uncomment the line below if you have icon.jpg in /opt/NIBL 
+#Icon = /opt/NIBL/icon.jpg
