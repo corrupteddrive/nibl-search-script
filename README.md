@@ -11,7 +11,7 @@ If you do not want to be able to launch this script without a terminal, all you 
 
 1) clone the script into /usr/bin and make it executable (see previous command)
 2) clone icon.jpg to /opt/NIBL (optional)
-3) clone NIBL.desktop to /usr/share/applications (you may need to edit this file to add an icon and category, however I didn't as I am using i3)
+3) clone NIBL.desktop to /usr/share/applications (you will need to uncomment a line in this file if you had followed the previous step)
 
 Oh, and dependencies;
 
