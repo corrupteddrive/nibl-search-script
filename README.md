@@ -10,7 +10,8 @@ Because surf does have a daemonise function, the code will not exit until the pr
 If you do not want to be able to launch this script without a terminal, all you need to do is;
 
 1) clone the script into /usr/bin and make it executable (see previous command)
-2) clone NIBL.desktop to /usr/share/applications (you may need to edit this file to add an icon and category, however I didn't as I am using i3)
+2) clone icon.jpg to /opt/NIBL (optional)
+3) clone NIBL.desktop to /usr/share/applications (you may need to edit this file to add an icon and category, however I didn't as I am using i3)
 
 Oh, and dependencies;
 
